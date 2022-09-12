@@ -1,0 +1,6 @@
+﻿  Scanning sources for module dependencies...
+  dllmain.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  netvar.cpp
+  Generating Code...
+  CSGONetVars.vcxproj -> C:\Users\Soma Chénard-Koné\Documents\GitHub\CPP_Projects\CSGONetVars\Debug\CSGONetVars.dll

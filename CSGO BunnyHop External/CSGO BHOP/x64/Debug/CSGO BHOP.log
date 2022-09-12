@@ -1,0 +1,7 @@
+﻿  CSGO BHOP.cpp
+C:\Users\Soma Chénard-Koné\Documents\GitHub\CPP_Projects\CSGO BHOP\CSGO BHOP\CSGO BHOP.cpp(25,21): warning C4244: 'initializing': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Users\Soma Chénard-Koné\Documents\GitHub\CPP_Projects\CSGO BHOP\CSGO BHOP\CSGO BHOP.cpp(27,54): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+C:\Users\Soma Chénard-Koné\Documents\GitHub\CPP_Projects\CSGO BHOP\CSGO BHOP\CSGO BHOP.cpp(33,53): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+C:\Users\Soma Chénard-Koné\Documents\GitHub\CPP_Projects\CSGO BHOP\CSGO BHOP\CSGO BHOP.cpp(37,21): warning C4244: 'initializing': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Users\Soma Chénard-Koné\Documents\GitHub\CPP_Projects\CSGO BHOP\CSGO BHOP\CSGO BHOP.cpp(40,55): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+  CSGO BHOP.vcxproj -> C:\Users\Soma Chénard-Koné\Documents\GitHub\CPP_Projects\CSGO BHOP\x64\Debug\CSGO BHOP.exe

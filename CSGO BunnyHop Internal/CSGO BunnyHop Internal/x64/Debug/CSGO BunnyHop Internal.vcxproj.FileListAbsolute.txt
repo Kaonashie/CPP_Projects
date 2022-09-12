@@ -1,0 +1,3 @@
+C:\Users\Soma Chénard-Koné\Documents\GitHub\CPP_Projects\CSGO BunnyHop Internal\CSGO BunnyHop Internal\x64\Debug\CSGO BunnyHop Internal.vcxproj.MdMergeInputs.cache
+C:\Users\Soma Chénard-Koné\Documents\GitHub\CPP_Projects\CSGO BunnyHop Internal\CSGO BunnyHop Internal\x64\Debug\CSGO BunnyHop Internal.vcxproj.cppwinrt_plat.cache
+C:\Users\Soma Chénard-Koné\Documents\GitHub\CPP_Projects\CSGO BunnyHop Internal\CSGO BunnyHop Internal\x64\Debug\CSGO BunnyHop Internal.vcxproj.cppwinrt_comp.cache
