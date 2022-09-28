@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SomaCK\Desktop\Coding stuff (Local not in Git)\Misc Projects\C++\Brightness app\Brightness v3.0(current with classes)\build\CMakeFiles\e0749741522200e7548fd177ef8d3565\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7D4994FA-6B4F-3714-845E-14DB398C9B5D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

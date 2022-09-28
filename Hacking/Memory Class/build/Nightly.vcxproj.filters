@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SomaCK\Desktop\Coding stuff (Local not in Git)\Misc Projects\C++\cmake sig scanner\Live\build\CMakeFiles\5931c42ccf512f53c9665307cbc76229\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\SomaCK\Desktop\Coding stuff (Local not in Git)\Misc Projects\C++\cmake sig scanner\Live\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\SomaCK\Desktop\Coding stuff (Local not in Git)\Misc Projects\C++\cmake sig scanner\Live\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9167927E-BEC3-3F12-A736-0F67EB1FED6C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

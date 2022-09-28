@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\SomaCK\Desktop\Coding stuff (Local not in Git)\Misc Projects\C++\Brightness app\Brightness v3.0(current with classes)\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\SomaCK\Desktop\Coding stuff (Local not in Git)\Misc Projects\C++\Brightness app\Brightness v3.0(current with classes)\MonitorBackend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SomaCK\Desktop\Coding stuff (Local not in Git)\Misc Projects\C++\Brightness app\Brightness v3.0(current with classes)\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5F5B9D84-ED33-3CCA-9A7B-84D8CA55FFB3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{22D6D620-3FE7-3DB3-932B-E5F2465AA30E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

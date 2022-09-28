@@ -1,0 +1,9 @@
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/cmake sig scanner/Live/build/CMakeFiles/Experimental.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/cmake sig scanner/Live/build/CMakeFiles/Nightly.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/cmake sig scanner/Live/build/CMakeFiles/Continuous.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/cmake sig scanner/Live/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/cmake sig scanner/Live/build/CMakeFiles/sigScanner.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/cmake sig scanner/Live/build/CMakeFiles/PACKAGE.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/cmake sig scanner/Live/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/cmake sig scanner/Live/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/cmake sig scanner/Live/build/CMakeFiles/ZERO_CHECK.dir

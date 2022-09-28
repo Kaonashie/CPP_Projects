@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\SomaCK\Desktop\Coding stuff (Local not in Git)\Misc Projects\C++\cmake sig scanner\Live\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\SomaCK\Desktop\Coding stuff (Local not in Git)\Misc Projects\C++\cmake sig scanner\Live\moduleBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SomaCK\Desktop\Coding stuff (Local not in Git)\Misc Projects\C++\cmake sig scanner\Live\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{986052AD-0657-36CD-B65D-310CA8D2357F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{015FAD32-6346-3D78-A4C3-F871E1041E97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

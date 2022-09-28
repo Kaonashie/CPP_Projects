@@ -1,0 +1,17 @@
+[{
+  "file": "C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\build\\CMakeFiles\\3.23.22060601-MSVC_2\\CompilerIdC\\CMakeCCompilerId.c",
+  "directory": "C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app",
+  "command": "gcc -c \"C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\build\\CMakeFiles\\3.23.22060601-MSVC_2\\CompilerIdC\\CMakeCCompilerId.c\" -o \"C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\build\\CMakeFiles\\3.23.22060601-MSVC_2\\CompilerIdC\\CMakeCCompilerId.c\".o  -I. -I."
+ }, {
+  "file": "C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\build\\CMakeFiles\\3.23.22060601-MSVC_2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp",
+  "directory": "C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app",
+  "command": "g++ -c \"C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\build\\CMakeFiles\\3.23.22060601-MSVC_2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp\" -o \"C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\build\\CMakeFiles\\3.23.22060601-MSVC_2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp\".o  -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\main.cpp",
+  "directory": "C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app",
+  "command": "g++ -c \"C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\main.cpp\" -o \"C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\main.cpp\".o  -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\MonitorBackend.h",
+  "directory": "C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app",
+  "command": "g++ -c \"C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\MonitorBackend.h\" -o \"C:\\Users\\SomaCK\\Desktop\\cmake vscode c++ app\\MonitorBackend.h\".o  -I. -I.  -g -Wall"
+ }]

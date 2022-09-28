@@ -1,0 +1,9 @@
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)/build/CMakeFiles/Experimental.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)/build/CMakeFiles/Nightly.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)/build/CMakeFiles/Continuous.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)/build/CMakeFiles/ScreenBrightness3.0.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)/build/CMakeFiles/PACKAGE.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)/build/CMakeFiles/ZERO_CHECK.dir

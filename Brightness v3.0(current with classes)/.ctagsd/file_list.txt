@@ -1,0 +1,4 @@
+C:\Users\SomaCK\Desktop\cmake vscode c++ app\build\CMakeFiles\3.23.22060601-MSVC_2\CompilerIdC\CMakeCCompilerId.c
+C:\Users\SomaCK\Desktop\cmake vscode c++ app\build\CMakeFiles\3.23.22060601-MSVC_2\CompilerIdCXX\CMakeCXXCompilerId.cpp
+C:\Users\SomaCK\Desktop\cmake vscode c++ app\main.cpp
+C:\Users\SomaCK\Desktop\cmake vscode c++ app\MonitorBackend.h

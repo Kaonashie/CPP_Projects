@@ -1,0 +1,10 @@
+^C:\USERS\SOMACK\DESKTOP\CODING STUFF (LOCAL NOT IN GIT)\MISC PROJECTS\C++\BRIGHTNESS APP\BRIGHTNESS V3.0(CURRENT WITH CLASSES)\BUILD\CMAKEFILES\E0749741522200E7548FD177EF8D3565\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)" "-BC:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/SomaCK/Desktop/Coding stuff (Local not in Git)/Misc Projects/C++/Brightness app/Brightness v3.0(current with classes)/build/ScreenBrightness3.0.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
